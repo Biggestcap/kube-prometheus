@@ -7,6 +7,11 @@
 > [!WARNING]
 > Everything is experimental and may change significantly at any time.
 
+
+@@ 1. service
+@@ 2. ReadinessprobeTime
+@@ 3. NetworkPolicy
+
 This repository collects Kubernetes manifests, [Grafana](http://grafana.com/) dashboards, and [Prometheus rules](https://prometheus.io/docs/prometheus/latest/configuration/recording_rules/) combined with documentation and scripts to provide easy to operate end-to-end Kubernetes cluster monitoring with [Prometheus](https://prometheus.io/) using the Prometheus Operator.
 
 The content of this project is written in [jsonnet](http://jsonnet.org/). This project could both be described as a package as well as a library.
